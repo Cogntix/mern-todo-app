@@ -10,22 +10,7 @@ A simple and responsive Full Stack **CRUD Todo Application** built using the **M
 - 💾 MongoDB for persistent storage
 - 🔄 React state management
 - 🎨 Clean and minimal UI
-- 
-## 📁 Project Structure
-
-mern-todo-app/
-├── server/ # Node.js + Express backend
-│ ├── models/ # Mongoose models
-│ ├── routes/ # API routes
-│ ├── .env # Environment variables
-│ └── server.js # Entry point
-├── client/ # React frontend
-│ ├── components/ # Reusable components
-│ ├── App.js # Main app file
-│ └── index.js # Entry point
-├── README.md
-└── package.json
-
+  
 ## ⚙️ Installation Steps
 
 ### Clone the Repository
